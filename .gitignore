@@ -2,4 +2,5 @@
 .vscode/
 */vscode
 *.out
+*/**/test.**
 
